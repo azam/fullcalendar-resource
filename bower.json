@@ -1,0 +1,46 @@
+{
+	"name": "fullcalendar-resource",
+	"description": "fullcalendar-resource",
+	"version": "0.0.1",
+	"authors": [{
+		"name": "Azamshul Azizy",
+		"email": "azamshul@gmail.com",
+		"url": "http://azam.io/"
+	}, {
+		"name": "Adam Shaw",
+		"email": "arshaw@arshaw.com",
+		"url": "http://arshaw.com/"
+	}],
+	"main": "fullcalendar-resource.js",
+	"moduleType": [
+		"amd"
+	],
+	"keywords": [
+		"fullcalendar",
+		"calendar",
+		"event",
+		"full-sized",
+		"jquery-plugin"
+	],
+	"license": "MIT",
+	"homepage": "https://github.com/azamshul/fullcalendar-resource",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/azamshul/fullcalendar-resource.git"
+	},
+	"private": false,
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"lib",
+		"test",
+		"tests"
+	],
+	"dependencies": {
+		"jquery": ">=1.7.1",
+		"moment": ">=2.5.0",
+		"fullcalendar": "~2.3.0"
+	}
+}
+
