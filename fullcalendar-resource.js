@@ -1,7 +1,7 @@
 /*!
  * fullcalendar-resource
  * (c) 2015 Azamshul Azizy
- * https://github.com/azamshul/fullcalendar-resource/
+ * https://github.com/azam/fullcalendar-resource/
  *
  * Extends:
  *

@@ -23,10 +23,10 @@
 		"jquery-plugin"
 	],
 	"license": "MIT",
-	"homepage": "https://github.com/azamshul/fullcalendar-resource",
+	"homepage": "https://github.com/azam/fullcalendar-resource",
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/azamshul/fullcalendar-resource.git"
+		"url": "git://github.com/azam/fullcalendar-resource.git"
 	},
 	"private": false,
 	"ignore": [
