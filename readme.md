@@ -1,6 +1,6 @@
 fullcalendar-resource
 =====================
-Adds day view with resource columns to FulLCalendar
+Adds day view with resource columns to FullCalendar
 
 * Usage
 ```javascript
