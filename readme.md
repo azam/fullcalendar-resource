@@ -1,7 +1,8 @@
 fullcalendar-resource
 =====================
-Adds day view with resource columns to FulLCalendar
+Adds day view with resource columns to FullCalendar
 
+* Working example: [JSFiddle](http://jsfiddle.net/azamshul/k0jgugL9/)
 * Usage
 ```javascript
 	$("#mycalendar").fullCalendar({
@@ -29,3 +30,7 @@ Adds day view with resource columns to FulLCalendar
 		],
 	});
 ```
+* TODO:
+  * Support all-day/cross-day events
+  * Support event dragging across resource
+  * Support for newer FullCalendar version (broken for 2.3.2)
