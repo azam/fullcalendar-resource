@@ -2,6 +2,8 @@ fullcalendar-resource
 =====================
 Adds day view with resource columns to FullCalendar
 
+<script async src="//jsfiddle.net/azamshul/k0jgugL9/embed/js,html,css,result/dark/"></script>
+
 * Working example: [JSFiddle](http://jsfiddle.net/azamshul/k0jgugL9/)
 * Usage
 ```javascript
